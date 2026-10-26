@@ -1,0 +1,12 @@
+{
+  "name": "willthiseverwork",
+  "owner": {
+    "name": "Will This Ever Work",
+    "url": "https://www.willthiseverwork.com/"
+  },
+  "metadata": {
+    "description": "Free Claude plugins from Will This Ever Work.",
+    "version": "1.0.0"
+  },
+  "plugins": []
+}
