@@ -1,0 +1,6 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="512" height="512" viewBox="0 0 512 512" role="img" aria-labelledby="title">
+  <title>ASO Keyword Intent</title>
+  <rect width="512" height="512" rx="96" fill="#0F766E"/>
+  <path fill="#FFFFFF" d="M224 112c-61.9 0-112 50.1-112 112s50.1 112 112 112c24.2 0 46.6-7.7 64.9-20.7l70.9 70.9c12.5 12.5 32.8 12.5 45.3 0s12.5-32.8 0-45.3l-70.9-70.9A111.5 111.5 0 0 0 336 224c0-61.9-50.1-112-112-112Zm0 64c26.5 0 48 21.5 48 48s-21.5 48-48 48-48-21.5-48-48 21.5-48 48-48Z"/>
+  <path fill="#FFFFFF" d="M160 388h126l42-42h-126l-42 42Z" opacity=".96"/>
+</svg>

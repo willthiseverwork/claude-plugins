@@ -1,0 +1,26 @@
+{
+  "name": "aso-keyword-intent",
+  "displayName": "ASO Keyword Sorter",
+  "version": "0.1.3",
+  "description": "Sort a raw keyword list into App Store listing candidates, content topics and keywords to drop, with the reason for each.",
+  "homepage": "https://www.willthiseverwork.com/aso-keyword-planner/?utm_source=github&utm_medium=referral",
+  "author": {
+    "name": "Will This Ever Work",
+    "url": "https://www.willthiseverwork.com/"
+  },
+  "repository": "https://github.com/willthiseverwork/claude-plugins",
+  "keywords": [
+    "ASO",
+    "App Store",
+    "keyword research",
+    "SEO",
+    "mobile apps"
+  ],
+  "metadata": {
+    "links": {
+      "privacyPolicy": "https://www.willthiseverwork.com/plugins/privacy/",
+      "support": "https://www.willthiseverwork.com/plugins/privacy/#support"
+    }
+  },
+  "license": "Apache-2.0"
+}

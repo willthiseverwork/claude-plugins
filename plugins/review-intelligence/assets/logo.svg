@@ -1,0 +1,7 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 320 64" fill="none" role="img" aria-labelledby="title">
+  <title id="title">Review Intelligence</title>
+  <rect x="2" y="2" width="60" height="60" rx="18" fill="#2563EB"/>
+  <path d="M14 20.5a5.5 5.5 0 0 1 5.5-5.5h25a5.5 5.5 0 0 1 5.5 5.5v18a5.5 5.5 0 0 1-5.5 5.5H29l-9 7v-7.2a5.5 5.5 0 0 1-6-5.3v-18Z" fill="#fff"/>
+  <path d="m32 20 2.4 4.9 5.4.8-3.9 3.8.9 5.4-4.8-2.5-4.8 2.5.9-5.4-3.9-3.8 5.4-.8L32 20Z" fill="#2563EB"/>
+  <text x="78" y="40" fill="#111827" font-family="Inter, ui-sans-serif, system-ui, sans-serif" font-size="23" font-weight="650" letter-spacing="-.55">Review Intelligence</text>
+</svg>

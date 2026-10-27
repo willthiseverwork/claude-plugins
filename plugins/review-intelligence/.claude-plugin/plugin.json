@@ -1,0 +1,28 @@
+{
+  "name": "review-intelligence",
+  "displayName": "App Review Intel",
+  "version": "0.3.5",
+  "description": "See what people love, hate and wish worked differently in apps they already use, with the App Store and Google Play reviews behind it.",
+  "author": {
+    "name": "Will This Ever Work",
+    "url": "https://www.willthiseverwork.com/"
+  },
+  "homepage": "https://www.willthiseverwork.com/review-intel/?utm_source=github&utm_medium=referral",
+  "repository": "https://github.com/willthiseverwork/claude-plugins",
+  "license": "Apache-2.0",
+  "keywords": [
+    "app reviews",
+    "review analysis",
+    "product strategy",
+    "growth",
+    "ASO"
+  ],
+  "metadata": {
+    "links": {
+      "website": "https://www.willthiseverwork.com/review-intel/?utm_source=github&utm_medium=referral",
+      "support": "https://www.willthiseverwork.com/review-intel/support/",
+      "privacyPolicy": "https://www.willthiseverwork.com/review-intel/privacy/",
+      "termsOfService": "https://www.willthiseverwork.com/review-intel/terms/"
+    }
+  }
+}

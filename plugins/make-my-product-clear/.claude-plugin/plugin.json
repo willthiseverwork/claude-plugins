@@ -1,0 +1,25 @@
+{
+  "name": "make-my-product-clear",
+  "displayName": "Make My Product Clear",
+  "version": "0.1.3",
+  "description": "Rewrite existing product pages, app listings, and product descriptions so customers see why the product matters and what to do next.",
+  "author": {
+    "name": "Will This Ever Work",
+    "url": "https://www.willthiseverwork.com/"
+  },
+  "repository": "https://github.com/willthiseverwork/claude-plugins",
+  "keywords": [
+    "product copy",
+    "product page",
+    "App Store description",
+    "Jobs to Be Done",
+    "conversion copy"
+  ],
+  "metadata": {
+    "links": {
+      "privacyPolicy": "https://www.willthiseverwork.com/plugins/privacy/",
+      "support": "https://www.willthiseverwork.com/plugins/privacy/#support"
+    }
+  },
+  "license": "Apache-2.0"
+}

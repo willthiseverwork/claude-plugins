@@ -1,0 +1,12 @@
+{
+  "name": "directories-done",
+  "displayName": "Directories Done",
+  "version": "1.0.1",
+  "description": "Prepare, approve once, submit and verify free directory listings for a released product, tool or site.",
+  "author": {
+    "name": "Will This Ever Work",
+    "url": "https://www.willthiseverwork.com/"
+  },
+  "license": "LicenseRef-Proprietary",
+  "repository": "https://github.com/willthiseverwork/claude-plugins"
+}

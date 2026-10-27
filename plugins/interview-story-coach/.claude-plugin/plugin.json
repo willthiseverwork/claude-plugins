@@ -1,0 +1,24 @@
+{
+  "name": "interview-story-coach",
+  "displayName": "Job Interview Story Coach",
+  "version": "0.1.3",
+  "description": "Build truthful interview stories from a job description and practise role-specific interviews.",
+  "author": {
+    "name": "Will This Ever Work",
+    "url": "https://www.willthiseverwork.com/"
+  },
+  "repository": "https://github.com/willthiseverwork/claude-plugins",
+  "keywords": [
+    "interview preparation",
+    "behavioral interviews",
+    "career coaching",
+    "story building"
+  ],
+  "metadata": {
+    "links": {
+      "privacyPolicy": "https://www.willthiseverwork.com/plugins/privacy/",
+      "support": "https://www.willthiseverwork.com/plugins/privacy/#support"
+    }
+  },
+  "license": "Apache-2.0"
+}

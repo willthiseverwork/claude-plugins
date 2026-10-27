@@ -1,0 +1,5 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 64 64" role="img" aria-labelledby="title">
+  <title>App Growth Calculator</title>
+  <rect width="64" height="64" rx="12" fill="#14213d"/>
+  <path d="M14 46V34m12 12V22m12 24V29m12 17V16" stroke="#fca311" stroke-linecap="round" stroke-width="6"/>
+</svg>

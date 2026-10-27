@@ -1,0 +1,9 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 128 128" role="img" aria-labelledby="title desc">
+  <title id="title">Make My Product Clear</title>
+  <desc id="desc">A page with a clear path toward an action</desc>
+  <rect width="128" height="128" rx="28" fill="#E7F4F0"/>
+  <rect x="27" y="19" width="74" height="90" rx="10" fill="#FFFFFF" stroke="#176B63" stroke-width="5"/>
+  <path d="M41 43h43M41 56h34" fill="none" stroke="#176B63" stroke-linecap="round" stroke-width="5"/>
+  <circle cx="47" cy="82" r="7" fill="#176B63"/>
+  <path d="M59 82h23m-10-10 11 10-11 10" fill="none" stroke="#176B63" stroke-linecap="round" stroke-linejoin="round" stroke-width="5"/>
+</svg>

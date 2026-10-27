@@ -1,0 +1,28 @@
+{
+  "name": "app-growth-calculator",
+  "displayName": "App Growth Calculator",
+  "version": "0.1.2",
+  "description": "Test whether a subscription app's paid growth pays back, what input must improve, and whether cash can cover the wait.",
+  "author": {
+    "name": "Will This Ever Work",
+    "url": "https://www.willthiseverwork.com/"
+  },
+  "homepage": "https://www.willthiseverwork.com/app-growth-calculator/?utm_source=github&utm_medium=referral",
+  "repository": "https://github.com/willthiseverwork/claude-plugins",
+  "keywords": [
+    "subscription app",
+    "unit economics",
+    "payback",
+    "cash runway",
+    "app benchmarks"
+  ],
+  "metadata": {
+    "links": {
+      "website": "https://www.willthiseverwork.com/app-growth-calculator/?utm_source=github&utm_medium=referral",
+      "support": "https://www.willthiseverwork.com/app-growth-calculator/support/",
+      "privacyPolicy": "https://www.willthiseverwork.com/app-growth-calculator/privacy/",
+      "termsOfService": "https://www.willthiseverwork.com/app-growth-calculator/terms/"
+    }
+  },
+  "license": "Apache-2.0"
+}

@@ -1,0 +1,6 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="512" height="512" viewBox="0 0 512 512" role="img" aria-labelledby="title">
+  <title>Interview Story Coach</title>
+  <rect width="512" height="512" rx="96" fill="#0F766E"/>
+  <path fill="#FFFFFF" d="M112 144c0-35.3 28.7-64 64-64h160c35.3 0 64 28.7 64 64v128c0 35.3-28.7 64-64 64H231l-76.8 64c-12.2 10.2-30.2 1.5-30.2-14.4V336c-7.5-10.8-12-23.9-12-38.2V144Zm64 0v128h160V144H176Z"/>
+  <path fill="#FFFFFF" d="m213.2 227.3 28.6 28.6 61.1-70.2 24.2 21.1-83.5 95.9-54.6-54.6 24.2-20.8Z"/>
+</svg>

@@ -5,8 +5,39 @@
     "url": "https://www.willthiseverwork.com/"
   },
   "metadata": {
-    "description": "Free Claude plugins from Will This Ever Work.",
-    "version": "1.0.0"
+    "description": "Claude plugins published by Will This Ever Work.",
+    "version": "1.1.0"
   },
-  "plugins": []
+  "plugins": [
+    {
+      "name": "app-growth-calculator",
+      "source": "./plugins/app-growth-calculator",
+      "description": "Test whether a subscription app's paid growth pays back, what input must improve, and whether cash can cover the wait."
+    },
+    {
+      "name": "aso-keyword-intent",
+      "source": "./plugins/aso-keyword-intent",
+      "description": "Sort a raw keyword list into App Store listing candidates, content topics and keywords to drop, with the reason for each."
+    },
+    {
+      "name": "directories-done",
+      "source": "./plugins/directories-done",
+      "description": "Prepare, approve once, submit and verify free directory listings for a released product, tool or site."
+    },
+    {
+      "name": "interview-story-coach",
+      "source": "./plugins/interview-story-coach",
+      "description": "Build truthful interview stories from a job description and practise role-specific interviews."
+    },
+    {
+      "name": "make-my-product-clear",
+      "source": "./plugins/make-my-product-clear",
+      "description": "Rewrite existing product pages, app listings, and product descriptions so customers see why the product matters and what to do next."
+    },
+    {
+      "name": "review-intelligence",
+      "source": "./plugins/review-intelligence",
+      "description": "See what people love, hate and wish worked differently in apps they already use, with the App Store and Google Play reviews behind it."
+    }
+  ]
 }
